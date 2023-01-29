@@ -18,7 +18,7 @@ On this page, you can find lots of knowledge and stuff about tech.
 - [Linux](technologies/linux)
 - [macOS](technologies/macos)
 - [Markdown](technologies/markdown)
-- [Next.js](technologies/next)
+- [Next.js](technologies/nextjs)
 - [Node.js](technologies/nodejs)
 - [pnpm](technologies/pnpm)
 - [Prisma](technologies/prisma)
